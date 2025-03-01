@@ -1,0 +1,282 @@
+[
+  {
+    "Title": "Cyberbullying Incident",
+    "Content": "I saw someone bullying me online and I don't know what to do. It's been going on for weeks and it's getting worse."
+  },
+  {
+    "Title": "Struggling with Math",
+    "Content": "I need help with math because I can't understand the geometry lessons and my grades are suffering."
+  },
+  {
+    "Title": "Verbal Insults in Class",
+    "Content": "Some classmates keep making mean comments during class. I feel like a victim and don't know how to stop them."
+  },
+  {
+    "Title": "Excited for Prom",
+    "Content": "I'm really excited about prom and trying to figure out the best dress option. Any recommendations?"
+  },
+  {
+    "Title": "Physical Bullying",
+    "Content": "I've been physically harassed in the hallway by a group of guys for no reason. It's happening every day and nobody seems to notice."
+  },
+  {
+    "Title": "Failed a Test",
+    "Content": "I completely failed my math test today. What can I do for better exam preparation next time?"
+  },
+  {
+    "Title": "Feeling Isolated",
+    "Content": "I feel really left out during lunch and wonder how to make friends in this school. "
+  },
+  {
+    "Title": "Sexual Harassment",
+    "Content": "Some inappropriate comments were made about a girl in my class. It made me feel really uncomfortable. What should I do?"
+  },
+  {
+    "Title": "Finally Aced a Quiz",
+    "Content": "I just got my first A on a math quiz! All the studying paid off and I'm so relieved."
+  },
+  {
+    "Title": "Racial Bullying",
+    "Content": "Some students keep making jokes about my race. I wonder why people are so aggressive and hostile."
+  },
+  {
+    "Title": "Need Help with History",
+    "Content": "The history project is due next week and I haven't started. Can anyone suggest some ideas for research?"
+  },
+  {
+    "Title": "Social Bullying",
+    "Content": "I noticed some girls spreading rumors about another girl in my class. This type of bullying is really sad and unfair."
+  },
+  {
+    "Title": "Vandalism in the Bathroom",
+    "Content": "Someone vandalized my locker. It's really upsetting",
+    "null": [
+      " and I think I know who it was but I'm too scared to confront them."
+    ]
+  },
+  {
+    "Title": "Excited for Graduation",
+    "Content": "I can't believe graduation is only a few months away! I'm so curious about what the future holds."
+  },
+  {
+    "Title": "Humiliation in PE",
+    "Content": "I was humiliated during PE when kids made fun of my performance. It's been really stressful for my mental wellness."
+  },
+  {
+    "Title": "Got an Award Today",
+    "Content": "The teacher gave me an award for academic excellence today. I never expected it at all."
+  },
+  {
+    "Title": "Cyberbullying from Anonymous Account",
+    "Content": "Someone created an anonymous account to harass me online. It's stressing me out and I have no idea who it is."
+  },
+  {
+    "Title": "Worried about Finals",
+    "Content": "Finals are coming up and I'm really worried about my grades. Any advice on how to study effectively?"
+  },
+  {
+    "Title": "Physical Bullying During Lunch",
+    "Content": "Today someone tripped me during lunch and spilled all my food. It was humiliating and nobody helped."
+  },
+  {
+    "Title": "Teacher Gave Extra Credit",
+    "Content": "My teacher announced extra credit today and I'm grateful because my grades need a boost."
+  },
+  {
+    "Title": "Verbal Bullying from Older Students",
+    "Content": "Some seniors keep making mean remarks about the way I dress. It's bullying and I don't know how to handle it."
+  },
+  {
+    "Title": "Happy to Be on Honor Roll",
+    "Content": "I just found out I made the honor roll! I feel so proud of my hard work in my classes."
+  },
+  {
+    "Title": "Feeling Nervous About Presentation",
+    "Content": "I have to present my science project tomorrow. I wonder how I can improve my public speaking skills."
+  },
+  {
+    "Title": "Theft in the Locker Room",
+    "Content": "Someone stole my gym shoes from the locker room and I'm really upset. What should I do about it?"
+  },
+  {
+    "Title": "Teacher Doesn't Like Me",
+    "Content": "It feels like my teacher is always picking on me. I wonder if it's just my imagination or if they truly don't like me."
+  },
+  {
+    "Title": "Cyberbullying Group Chat",
+    "Content": "Some students made a group chat just to talk bad about me. It\u2019s a form of bullying and I'm really upset."
+  },
+  {
+    "Title": "Got Detention Today",
+    "Content": "I got detention for something I didn't do. I feel so unfairly treated and don't know how to talk to my teacher about it."
+  },
+  {
+    "Title": "Physical Assault on the Bus",
+    "Content": "Someone punched me on the bus today. I\u2019m terrified to ride it again and don\u2019t know how to report it."
+  },
+  {
+    "Title": "Finally Finished a Big Project",
+    "Content": "Just turned in the biggest project of the year! I hope my teacher appreciates the hard work I put in."
+  },
+  {
+    "Title": "Religious Bullying in Class",
+    "Content": "Someone made fun of my religion today. It's upsetting and I don't know how to respond."
+  },
+  {
+    "Title": "Excited for Spring Break",
+    "Content": "Spring break is almost here! I can't wait to take a break from school and relax."
+  },
+  {
+    "Title": "Vandalism of My Property",
+    "Content": "My textbook was vandalized",
+    "null": [
+      " and I have no idea who did it. This kind of aggression is so frustrating."
+    ]
+  },
+  {
+    "Title": "Feeling Overwhelmed with Assignments",
+    "Content": "I have so many assignments this week",
+    "null": [
+      " I don't know how I'm going to manage my time effectively. Any tips?"
+    ]
+  },
+  {
+    "Title": "Cyberbullying on Social Media",
+    "Content": "Someone is posting hurtful things about me online. It's really affecting my mental health."
+  },
+  {
+    "Title": "Aced My Final",
+    "Content": "I can\u2019t believe I got an A on my biology final! All those late nights studying finally paid off."
+  },
+  {
+    "Title": "Verbal Bullying in Cafeteria",
+    "Content": "Some kids were making fun of my lunch. This kind of bullying is hurtful",
+    "null": [
+      " and I don\u2019t know how to stand up for myself."
+    ]
+  },
+  {
+    "Title": "Teacher Praised Me in Class",
+    "Content": "My history teacher praised my project in class today. It gave me confidence to continue studying hard."
+  },
+  {
+    "Title": "Sexual Harassment in Hallways",
+    "Content": "A group of boys made inappropriate comments toward me. It\u2019s humiliating",
+    "null": [
+      " and I don't know who to talk to about it."
+    ]
+  },
+  {
+    "Title": "Looking Forward to Summer",
+    "Content": "Just a few more weeks until summer vacation! I can't wait to enjoy my time off from school."
+  },
+  {
+    "Title": "Physical Bullying in Gym Class",
+    "Content": "Someone threw a basketball at me during gym. I feel like they are bullying me on purpose."
+  },
+  {
+    "Title": "Happy I Passed",
+    "Content": "I finally passed my math class after struggling all year! I\u2019m so relieved and proud of my effort."
+  },
+  {
+    "Title": "Humiliation in Front of Class",
+    "Content": "I was asked to read out loud and my classmates laughed at me. I felt humiliated and embarrassed."
+  },
+  {
+    "Title": "Racial Slurs in School Hallway",
+    "Content": "Someone yelled racial slurs at me and I don\u2019t know how to respond. I\u2019m scared to tell anyone about it."
+  },
+  {
+    "Title": "Got an A on My Paper",
+    "Content": "I got an A on my English paper! My teacher said it was well-written and well-researched."
+  },
+  {
+    "Title": "Cyberbullying in Group Project",
+    "Content": "I'm in a group project and one person keeps posting rude things about me online. It's making it so difficult to collaborate."
+  },
+  {
+    "Title": "Feeling Stressed About Grades",
+    "Content": "I'm so stressed about my grades this semester. I wonder what my best option is to improve them."
+  },
+  {
+    "Title": "Feeling Left Out at School",
+    "Content": "It feels like everyone has their own group of friends and I'm just by myself. I'm really curious about how to find my place here."
+  },
+  {
+    "Title": "Bullying Incident During Lunch",
+    "Content": "Someone started throwing food at me in the cafeteria today. It was humiliating",
+    "null": [
+      " and I didn't know how to react."
+    ]
+  },
+  {
+    "Title": "Teacher Encouraged Me",
+    "Content": "My teacher encouraged me to apply for the advanced math class! I'm excited but also a bit nervous."
+  },
+  {
+    "Title": "Religious Bullying in Cafeteria",
+    "Content": "Someone made fun of my prayer before eating lunch. I feel disrespected and wish people would be more understanding."
+  },
+  {
+    "Title": "Worried About College Apps",
+    "Content": "Everyone is talking about college applications and it's stressing me out. I don't know how to even start."
+  },
+  {
+    "Title": "Cyberbullying Texts",
+    "Content": "I keep receiving mean texts from someone at school. It's really affecting my mental health and I don\u2019t know who to tell."
+  },
+  {
+    "Title": "Excited for Yearbook Photos",
+    "Content": "Yearbook photos are coming up! I'm so curious to see how mine will turn out."
+  },
+  {
+    "Title": "Got in Trouble for Something I Didn't Do",
+    "Content": "The teacher blamed me for something I didn't even do today. I feel like I'm always getting in trouble for no reason."
+  },
+  {
+    "Title": "Physical Assault During Recess",
+    "Content": "Someone shoved me really hard during recess and now I\u2019m scared to go outside. It\u2019s really affecting my well-being."
+  },
+  {
+    "Title": "Happy with My Report Card",
+    "Content": "My report card came in today and I got all A's! I can't believe how much I've learned this year."
+  },
+  {
+    "Title": "Cyberbullying Through DMs",
+    "Content": "Someone is sending me hurtful messages through DMs. I\u2019m really upset and don\u2019t know how to stop it."
+  },
+  {
+    "Title": "Excited for Senior Year",
+    "Content": "Senior year is just around the corner! I\u2019m so curious about what the future holds and all the opportunities ahead."
+  },
+  {
+    "Title": "Verbal Insults During PE",
+    "Content": "Some students were making mean remarks during PE. I wonder how I can find support to deal with this bullying."
+  },
+  {
+    "Title": "Scared About a Big Test",
+    "Content": "I have a huge test tomorrow and I'm terrified. I feel overwhelmed and need some advice on studying."
+  },
+  {
+    "Title": "Social Bullying in Gym",
+    "Content": "Some girls in my gym class keep excluding me. It feels like social bullying",
+    "null": [
+      " and I'm not sure how to address it."
+    ]
+  },
+  {
+    "Title": "Feeling Overwhelmed with Clubs",
+    "Content": "I signed up for too many clubs this year and now I feel overwhelmed with all the extracurricular activities."
+  },
+  {
+    "Title": "Physical Bullying on the Playground",
+    "Content": "Someone shoved me into the fence during recess. It hurt",
+    "null": [
+      " and I didn't know how to respond."
+    ]
+  },
+  {
+    "Title": "Excited for Yearbook",
+    "Content": "Yearbook planning is underway and I can\u2019t wait to see everyone\u2019s ideas. It\u2019s such a fun school activity!"
+  }
+]

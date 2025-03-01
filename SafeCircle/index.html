@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Blind Clone</title>
+    <link rel="stylesheet" href="style.css">
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/tailwindcss/2.2.19/tailwind.min.css" rel="stylesheet">
+    <script src="https://unpkg.com/compromise"></script>
+    </head>
+<body class="bg-gray-100">
+	<!-- Banner -->
+    <div class="bg-gradient-to-r from-blue-500 to-indigo-600 text-white py-4 px-6 shadow-md">
+        <div class="container mx-auto flex justify-between items-center">
+            <a href="#" onclick="checkSignedIn('home')" class="text-2xl font-bold">Blind</a>
+            <p>Connect and share anonymously</p>
+            <div class="flex items-center space-x-4">
+            	<img id="school-image" src="images/overlake.png" alt="User Image" class="w-8 h-8">
+            	<p id="username-text" class="text-sm">Please log in</p>
+            	<!-- User icon for Sign In/Sign Out -->
+            	<div id="auth-icon" class="cursor-pointer" onclick="toggleAuth()">
+                	<img src="images/login.png" alt="Login Icon" class="w-8 h-8">
+            	</div>
+        	</div>
+        </div>
+    </div>
+    
+    <div id="app" class="container mx-auto px-4 py-8">
+        <!-- Navigation -->
+        <nav class="bg-white shadow-lg rounded-lg mb-6">
+            <ul class="flex justify-around py-4">
+                <!--  <li><a href="#" class="text-blue-500" onclick="checkSignedIn('home')">Home</a></li> -->
+                <li><a href="#" class="text-blue-500" onclick="checkSignedIn('post')">Post</a></li>
+                <li><a href="#" class="text-blue-500" onclick="checkSignedIn('school')">School</a></li>
+            </ul>
+        </nav>
+
+        <!-- Pages -->
+        <div id="home" class="page">
+            <h1 class="text-2xl font-bold mb-4">Posts</h1>
+            <div id="tag-container" class="mb-4">
+        		<span class="tag clickable" onclick="filterPosts('')">All</span>
+        			<!-- Tags will be dynamically populated here -->
+    		</div>
+            <div id="posts-container"></div>
+        </div>
+
+        <div id="post" class="page hidden">
+            <h1 class="text-2xl font-bold mb-4">Create a Post</h1>
+            <form id="post-form" class="space-y-4">
+                <div>
+                    <label for="post-title" class="block text-sm font-medium text-gray-700">Title</label>
+                    <input type="text" id="post-title" placeholder="Enter post title" class="input-field mt-1" required>
+                </div>
+                <div>
+                    <label for="post-content" class="block text-sm font-medium text-gray-700">Content</label>
+                    <textarea id="post-content" placeholder="What's on your mind?" class="input-field mt-1" rows="4" required></textarea>
+                </div>
+                <div class="flex justify-start">
+                    <button type="submit" class="btn-primary">Post</button>
+                </div>
+            </form>
+        </div>
+        
+        <!-- Admin Page Section -->
+		<div id="school" class="page hidden">
+			<h1 class="text-2xl font-bold mb-4">Posts by Categories</h1>
+			<canvas id="tagsChart" width="300" height="150"></canvas>
+			<div id="posts-by-tag"></div>
+		</div>
+
+        <div id="signin" class="page hidden">
+            <h1 class="text-2xl font-bold mb-4">Sign In</h1>
+            <form id="signin-form" class="space-y-4">
+                <div>
+                    <label for="email" class="block text-sm font-medium text-gray-700">Email</label>
+                    <input type="email" id="email" placeholder="Enter your email" class="input-field mt-1" required>
+                </div>
+                <div>
+                    <label for="code" class="block text-sm font-medium text-gray-700">Verification Code</label>
+                    <input type="text" id="code" placeholder="Enter the verification code" class="input-field mt-1">
+                </div>
+                <div class="flex justify-start">
+                    <button type="submit" class="btn-primary">Send Code / Login</button>
+                </div>
+            </form>
+        </div>
+    </div>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/uuid/8.3.2/uuid.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <script src="script.js"></script>
+</body>
+</html>
